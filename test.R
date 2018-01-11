@@ -3,3 +3,5 @@ var2 <- 2
 
 # volatile code
 foo <- 'bar'
+
+test <- 'bar2'
