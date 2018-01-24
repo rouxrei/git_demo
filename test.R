@@ -14,4 +14,4 @@ test5<- 'two commits before push'
 
 branchtest <- 'try to push a branch to github'
 testbranchline <- 'extra line' 
-testbranchline2 <- 'extra line'
+testbranchline2 <- 'extra line2'
