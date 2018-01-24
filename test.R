@@ -11,3 +11,5 @@ test_jellert2 <- 'test'
 test3 <- 'qsdlmkfjj'
 test4 <- 'qmsldkfjqsdlmkfjfdslkjsdflkjmk'
 test5<- 'two commits before push'
+
+testbeforemergebranch <- 'newline to check before merging branch'
