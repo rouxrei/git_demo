@@ -13,4 +13,3 @@ test4 <- 'qmsldkfjqsdlmkfjfdslkjsdflkjmk'
 test5<- 'two commits before push'
 
 branchtest <- 'try to push a branch to github'
-branchtest2 <- 'try another push'
