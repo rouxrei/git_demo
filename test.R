@@ -19,3 +19,4 @@ testbranchline3<- 'newR version again'
 testline <- 'added by Jellert'
 testline2 <- 'another testline'
 testline3 
+testline4
