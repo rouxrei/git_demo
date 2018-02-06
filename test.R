@@ -7,17 +7,3 @@ foo <- 'bar'
 test <- 'bar2'
 
 test_jellert <- 'merci voor de intro Reinert'
-test_jellert2 <- 'test'
-test3 <- 'qsdlmkfjj'
-test4 <- 'qmsldkfjqsdlmkfjfdslkjsdflkjmk'
-test5<- 'two commits before push'
-
-branchtest <- 'try to push a branch to github'
-testbranchline <- 'extra line' 
-testbranchline2 <- 'extra line2'
-testbranchline3<- 'newR version again'
-testline <- 'added by Jellert'
-testline2 <- 'another testline'
-testline3 
-testline4
-testline5
