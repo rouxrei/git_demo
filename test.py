@@ -10,4 +10,5 @@ print("let's try to create a branch called experiment, commit, push and create a
 print("Jellert test: add something to master")
 print("test in Python io GitGui")
 print("create branch and push to remote")
-print("now merge then push sqddfqsdf")
+print("now merge then push")
+print("adaptations in branch then push then merge with master then push again ")
